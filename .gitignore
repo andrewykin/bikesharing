@@ -1,3 +1,6 @@
+# add csv file
+201908-citibike-tripdata.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
