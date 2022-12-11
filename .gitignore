@@ -1,5 +1,6 @@
-# add csv file
+# add csv files
 201908-citibike-tripdata.csv
+challenge_tripdata.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
